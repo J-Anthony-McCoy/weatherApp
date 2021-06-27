@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+
+#application properties
+src/main/resources/application.properties
+application.properties
+
+#Mac Finder
+.DS_Store

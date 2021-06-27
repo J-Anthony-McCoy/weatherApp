@@ -1,2 +1,2 @@
 # weatherApp
-Weather web app that shows current weather once user enters a zip code
+Simple weather app that interacts with openweathermap API. Takes in zip code from user to display weather conditions.
